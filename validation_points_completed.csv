@@ -1,0 +1,61 @@
+point_id,predicted_class,latitude,longitude,reference_class,correct,notes,predicted_class_name,reference_class_name
+1,0,31.37478419197944,73.2148965281871,0,True,,Other,Other
+2,2,31.485905792625022,73.14258214781547,2,True,,Built-up / Urban,Built-up / Urban
+3,1,31.557681183826173,73.25496138985882,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+4,0,31.613466562969997,73.35350657652674,0,True,,Other,Other
+5,1,31.35277546751851,73.5757497778179,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+6,1,30.86831403479285,72.84461096807303,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+7,2,31.430479739594848,73.27697011431975,2,True,,Built-up / Urban,Built-up / Urban
+8,1,31.29797823518722,73.47531812905335,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+9,2,31.373167224468023,72.99606692497558,2,True,,Built-up / Urban,Built-up / Urban
+10,1,31.425718668589013,73.44360759952393,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+11,1,31.01231397483721,73.00019917528253,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+12,1,31.017075045843043,72.90740320643299,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+13,1,31.41781349408876,73.4705570580475,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+14,1,31.548518367928157,73.10835633549051,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+15,2,31.43802558798145,73.054816744557,2,True,,Built-up / Urban,Built-up / Urban
+16,1,31.299595202698637,73.47998936853077,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+17,0,30.88987360161172,72.79583244814533,0,True,,Other,Other
+18,1,31.18452101480292,73.44531439856375,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+19,0,30.813606633989973,72.859433170261,0,True,,Other,Other
+20,2,31.595679920344427,73.33275549346358,2,True,,Built-up / Urban,Built-up / Urban
+21,1,31.030909101218484,73.20788966897096,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+22,1,30.957247247920684,73.15965013821375,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+23,1,31.69754887356358,73.35359640805515,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+24,2,30.757551760260917,72.79888672011134,2,True,,Built-up / Urban,Built-up / Urban
+25,1,31.739590028860373,73.17932324293596,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+26,1,31.272915238760284,72.87632149760245,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+27,1,30.729883649510032,72.86374508362478,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+28,1,31.211470473326507,73.12201072780914,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+29,1,31.413771075310223,73.14860086021908,2,False,,Vegetation / Agriculture,Built-up / Urban
+30,2,31.66152643067039,73.30113479546257,2,True,,Built-up / Urban,Built-up / Urban
+31,1,31.25899135185643,73.46507733481438,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+32,2,31.40245230273032,73.12290904309326,2,True,,Built-up / Urban,Built-up / Urban
+33,1,31.26869315692492,73.17456217193013,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+34,1,30.8416340708545,73.00711620297025,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+35,1,31.241204709230864,72.84227534833431,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+36,1,31.480875227033952,73.30122462699099,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+37,1,31.3684959849906,72.82215308597004,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+38,1,31.466681845544866,72.92078810416636,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+39,1,31.238869089492155,73.08275434989311,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+40,0,31.238509763378502,72.85260597410169,0,True,,Other,Other
+41,1,31.33301253126788,73.57170735903937,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+42,1,31.660538283857857,73.26574117326825,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+43,1,31.30776987178412,73.2480443621711,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+44,0,30.74075326444788,72.90731337490458,2,False,,Other,Built-up / Urban
+45,1,31.393918307531184,73.30921963301964,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+46,1,31.26995079832269,73.62848088499572,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+47,1,30.99479682679688,73.26933443440474,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+48,1,31.36328575634271,72.83095657575441,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+49,1,31.1430188486766,72.8000545299807,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+50,2,31.21182979944016,72.92689664809838,2,True,,Built-up / Urban,Built-up / Urban
+51,2,31.254499775435832,73.3720118713796,2,True,,Built-up / Urban,Built-up / Urban
+52,2,31.140862891994715,72.98187354348649,2,True,,Built-up / Urban,Built-up / Urban
+53,0,31.34064821118289,73.62345031940465,0,True,,Other,Other
+54,0,31.70590320570589,73.30329075214445,0,True,,Other,Other
+55,1,31.53055206224576,73.02202823668664,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+56,1,30.90748058118046,72.80625290544113,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+57,1,31.18820410746781,73.3322165042931,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+58,1,31.49991951105729,73.42573112536995,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+59,1,31.192875346945232,73.53083401361192,1,True,,Vegetation / Agriculture,Vegetation / Agriculture
+60,1,31.332832868211057,73.28334815283701,1,True,,Vegetation / Agriculture,Vegetation / Agriculture

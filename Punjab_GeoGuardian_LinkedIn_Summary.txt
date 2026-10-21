@@ -1,0 +1,40 @@
+
+I completed AIRI Team PITB AI Internship Task 3 by developing Punjab GeoGuardian, an educational GeoAI prototype for monitoring possible urban expansion and farmland loss in Faisalabad District, Punjab, Pakistan.
+
+The project compares Sentinel-2 satellite imagery from 2019 and 2025. It uses Google Earth Engine, Python, NDVI, NDBI, and a Random Forest classifier to classify land into:
+
+- Other
+- Vegetation / Agriculture
+- Built-up / Urban
+
+The workflow includes:
+
+- Area of Interest selection
+- Sentinel-2 satellite data collection
+- Cloud masking and image compositing
+- NDVI and NDBI calculation
+- Random Forest land-cover classification
+- Change detection
+- Estimated vegetation-to-built-up conversion
+- Area statistics calculation
+- 60-point validation
+- Error analysis
+- Interactive map dashboard
+
+Key estimated results:
+
+- Total AOI area: 5,953.79 km2
+- Estimated vegetation-to-built-up conversion: 344.84 km2
+- Estimated percentage of AOI affected: 5.79%
+- Validation points checked: 60
+- Validation accuracy: 96.67%
+
+Tools used:
+
+Python, Google Colab, Google Earth Engine, Sentinel-2, Geemap, Folium, Pandas, NumPy, Scikit-learn, and Random Forest.
+
+This project helped me understand how AI and satellite imagery can support urban planning, agricultural monitoring, environmental analysis, and public-sector decision support.
+
+Important note: This is an educational prototype. The detected changes are estimated satellite-based results and are not official land records or government monitoring outputs.
+
+#GeoAI #RemoteSensing #SatelliteImagery #MachineLearning #UrbanPlanning #Agriculture #Python #GoogleEarthEngine #AIRI #PITB #AIInternship
